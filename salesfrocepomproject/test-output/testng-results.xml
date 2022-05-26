@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-25T22:21:10 EDT" name="Suite" finished-at="2022-05-25T22:22:38 EDT" duration-ms="88303">
+    <groups>
+    </groups>
+    <test started-at="2022-05-25T22:21:10 EDT" name="chromeTest" finished-at="2022-05-25T22:21:50 EDT" duration-ms="39760">
+      <class name="com.salesfrocepom.tests.Automationpomscripts">
+        <test-method is-config="true" signature="pomfirstsetup()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:10 EDT" name="pomfirstsetup" finished-at="2022-05-25T22:21:10 EDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomfirstsetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:10 EDT" name="setup" finished-at="2022-05-25T22:21:15 EDT" duration-ms="5239" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.LoginSFDC() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginSFDC()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:15 EDT" name="LoginSFDC" finished-at="2022-05-25T22:21:19 EDT" duration-ms="3706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSFDC -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:19 EDT" name="close" finished-at="2022-05-25T22:21:24 EDT" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:24 EDT" name="setup" finished-at="2022-05-25T22:21:28 EDT" duration-ms="4133" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.NaviagtetoSFDC() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NaviagtetoSFDC()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:28 EDT" name="NaviagtetoSFDC" finished-at="2022-05-25T22:21:29 EDT" duration-ms="1081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviagtetoSFDC -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:29 EDT" name="close" finished-at="2022-05-25T22:21:29 EDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:29 EDT" name="setup" finished-at="2022-05-25T22:21:34 EDT" duration-ms="4435" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.checkrememberme() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkrememberme()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:34 EDT" name="checkrememberme" finished-at="2022-05-25T22:21:39 EDT" duration-ms="5168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkrememberme -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:39 EDT" name="close" finished-at="2022-05-25T22:21:39 EDT" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:39 EDT" name="setup" finished-at="2022-05-25T22:21:43 EDT" duration-ms="3737" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.forgotpassword() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotpassword()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:43 EDT" name="forgotpassword" finished-at="2022-05-25T22:21:44 EDT" duration-ms="838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:44 EDT" name="close" finished-at="2022-05-25T22:21:44 EDT" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:44 EDT" name="setup" finished-at="2022-05-25T22:21:48 EDT" duration-ms="3832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.invalidlogindetials(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidlogindetials(java.lang.String,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:48 EDT" name="invalidlogindetials" data-provider="logindata" finished-at="2022-05-25T22:21:49 EDT" duration-ms="753" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2231]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlogindetials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:49 EDT" name="close" finished-at="2022-05-25T22:21:49 EDT" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="finaldown()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4fb61f4a]" started-at="2022-05-25T22:21:49 EDT" name="finaldown" finished-at="2022-05-25T22:21:50 EDT" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finaldown -->
+      </class> <!-- com.salesfrocepom.tests.Automationpomscripts -->
+    </test> <!-- chromeTest -->
+    <test started-at="2022-05-25T22:21:50 EDT" name="edgeTest" finished-at="2022-05-25T22:22:38 EDT" duration-ms="48502">
+      <class name="com.salesfrocepom.tests.Automationpomscripts">
+        <test-method is-config="true" signature="pomfirstsetup()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:21:50 EDT" name="pomfirstsetup" finished-at="2022-05-25T22:21:50 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pomfirstsetup -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:21:50 EDT" name="setup" finished-at="2022-05-25T22:21:58 EDT" duration-ms="7943" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.LoginSFDC() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginSFDC()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:21:58 EDT" name="LoginSFDC" finished-at="2022-05-25T22:22:01 EDT" duration-ms="3310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSFDC -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:01 EDT" name="close" finished-at="2022-05-25T22:22:02 EDT" duration-ms="485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:02 EDT" name="setup" finished-at="2022-05-25T22:22:08 EDT" duration-ms="6049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.NaviagtetoSFDC() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="NaviagtetoSFDC()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:08 EDT" name="NaviagtetoSFDC" finished-at="2022-05-25T22:22:09 EDT" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviagtetoSFDC -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:09 EDT" name="close" finished-at="2022-05-25T22:22:09 EDT" duration-ms="329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:09 EDT" name="setup" finished-at="2022-05-25T22:22:15 EDT" duration-ms="5715" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.checkrememberme() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkrememberme()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:15 EDT" name="checkrememberme" finished-at="2022-05-25T22:22:23 EDT" duration-ms="7951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkrememberme -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:23 EDT" name="close" finished-at="2022-05-25T22:22:23 EDT" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:23 EDT" name="setup" finished-at="2022-05-25T22:22:29 EDT" duration-ms="6070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.forgotpassword() throws java.io.IOException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="forgotpassword()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:29 EDT" name="forgotpassword" finished-at="2022-05-25T22:22:30 EDT" duration-ms="760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:30 EDT" name="close" finished-at="2022-05-25T22:22:30 EDT" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:30 EDT" name="setup" finished-at="2022-05-25T22:22:37 EDT" duration-ms="6315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public static void com.salesfrocepom.tests.Automationpomscripts.invalidlogindetials(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidlogindetials(java.lang.String,java.lang.String)[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:37 EDT" name="invalidlogindetials" data-provider="logindata" finished-at="2022-05-25T22:22:38 EDT" duration-ms="949" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2231]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlogindetials -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:38 EDT" name="close" finished-at="2022-05-25T22:22:38 EDT" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="finaldown()[pri:0, instance:com.salesfrocepom.tests.Automationpomscripts@4f83df68]" started-at="2022-05-25T22:22:38 EDT" name="finaldown" finished-at="2022-05-25T22:22:38 EDT" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finaldown -->
+      </class> <!-- com.salesfrocepom.tests.Automationpomscripts -->
+    </test> <!-- edgeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
